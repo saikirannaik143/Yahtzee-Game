@@ -1,0 +1,27 @@
+Yahtzee Help
+
+How to Play:
+
+There are 5 Dice at the bottom of the window, which are rolled up to 3 times each turn, for 13 turns.
+In each turn, you pick a score, either at the end of your 3 rolls, or when there is a combination you wish to score.
+During the 3 rolls, you can also hold dice, so they are not rolled when "Roll the Dice" is selected.
+
+Scoring:
+
+Each possible score with the dice will be displayed when the dice are rolled. Each score can only be selected once.
+
+Upper Section: 
+For each dice value, the sum of the specified value is the score. For example, four "two's" and an "ace" would score 8.
+The bonus of 35 points is given when the upper total of 63 is reached, or an average of 3 dice of each value is scored.
+
+Lower Section:
+3 of a Kind: When 3 of the dice show the same value, 3 of a kind is scored with the total of all dice values.
+4 of a Kind: When 4 of the dice show the same value, 4 of a kind is scored with the total of all dice values.
+Full House: A Full House is scored when there is 3 of one value and 2 of another. E.g. 4,4,4,1,1. A full house scores 25 points.
+Small Straight: When four dice have successive values, e.g. 2,3,4,5,3. A Small Straight scores 30 points.
+Large Straight: When all five dice have succesive values, e.g. 2,3,4,5,6. A Large Straight scores 40 points.
+Yahtzee!: When all five dice show the same value. A Yahtzee scores 50 points.
+Chance: Chance is determined by the sum of all dice. There is no pattern required, this is an option for when there are no other combinations.
+
+
+
